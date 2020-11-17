@@ -10,6 +10,8 @@ mogonote: https://mogonote.com/
 
 +   [blog](https://github.com/hoperyy/blog)
 
+    > 沉淀 / 体系化
+
 +   [plugin-anything 插件化改造工具](https://github.com/hoperyy/blog/issues/150)
 
     > 批量生产插件化工具的工具
