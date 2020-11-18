@@ -2,7 +2,7 @@
 
 mogonote: https://mogonote.com/
 
-蘑菇笔记，将你的知识体系化
+蘑菇笔记，体系化你的知识
 
 支持**作图 / markdown / text**等类型的笔记，欢迎使用
 
