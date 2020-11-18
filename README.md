@@ -38,6 +38,6 @@ mogonote: https://mogonote.com/
 
     > 挺受欢迎的。
 
-    [npm](https://www.npmjs.com/package/sync-directory)
+    [npm](https://www.npmjs.com/package/sync-directory) 周下载量 1200+
 
 
