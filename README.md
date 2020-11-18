@@ -40,10 +40,4 @@ mogonote: https://mogonote.com/
 
     [npm](https://www.npmjs.com/package/sync-directory)
 
-+   [visual-compare: 视觉还原度对比工具](https://github.com/hoperyy/visual-compare)(2017)
-    
-    > chrome 插件。
-
-+   发起并维护着 [微店技术 blog](https://github.com/weidian-inc/weidian-tech-blog)(2019)
-
 
