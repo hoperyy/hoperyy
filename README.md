@@ -18,7 +18,7 @@ Systematize your knowledge
 
     > Make pluginable applications.
 
-+   [snippets](https://hoperyy.github.io/snippets/#/)(长期更新)
++   [snippets](https://hoperyy.github.io/snippets/#/)
 
     > My code snippets
 
