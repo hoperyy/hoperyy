@@ -30,7 +30,7 @@ Systematize your knowledge
 
 +   [auto-compute-first-screen-time](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
-    > get first screen loading time automatically
+    > Get first screen loading time automatically
 
 +   [sync-directory](https://github.com/hoperyy/sync-directory)(2017)
 
