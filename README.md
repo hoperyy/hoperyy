@@ -4,9 +4,9 @@ mogonote: https://mogonote.com/
 
 Systematize your knowledge
 
-+   Draw / Markdown / Text
-+   Offline Mode / Online Mode
-+   Multi Level Directory
+>   Draw / Markdown / Text
+>   Offline Mode / Online Mode
+>   Multi Level Directory
 
 ## Projects
 
