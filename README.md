@@ -26,12 +26,6 @@ Systematize your knowledge
 
     > Analyze file dependencies with extention `js / vue / scss / sass / less / css`
 
-+   [bio-cli: 前端开发一站式解决方案](https://github.com/weidian-inc/bio-cli)(2018)
-
-    > 自动化流程：项目初始化 -- 开发环境启动 -- 打包。
-
-    > 插件化。
-
 +   [auto-compute-first-screen-time](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
     > get first screen loading time automatically
@@ -42,4 +36,8 @@ Systematize your knowledge
 
     > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 1200+
 
++   [bio-cli](https://github.com/weidian-inc/bio-cli)(2018)
 
+    > A cli tool for front-end developer
+
+    > Pluginable
