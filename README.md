@@ -38,7 +38,7 @@ Systematize your knowledge
 
     > A popular package
 
-    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 1200+
+    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 3000+
 
 +   [bio-cli](https://github.com/weidian-inc/bio-cli)(2018)
 
