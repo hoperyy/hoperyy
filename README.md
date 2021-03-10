@@ -1,4 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoperyy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### About Me
+
+- 👨  I'm a Front-end Developer.
+- 🏢  I'm currently working at **Weidian** in **Hangzhou**.
+- ⚙️  I use daily: **Vue**, **Webpack**, **Node**.
+- ⚡  Languages: **Javascript** **TypeScript**.
+### Github Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api/?username=hoperyy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+
+### Weekly DevTime
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoperyy&layout=compact&theme=tokyonight)
 
 ## Products
 
