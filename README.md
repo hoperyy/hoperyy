@@ -22,6 +22,10 @@ Systematize your knowledge
 
 ## Projects
 
++   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
+
+    > 最好的管理，就是最大限度的激发每个人的能力和善意
+
 +   [plugin-anything](https://github.com/hoperyy/blog/issues/150)(2020)
 
     > Make pluginable applications.
