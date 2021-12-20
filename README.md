@@ -13,7 +13,7 @@
 mogonote: https://mogonote.com/
 
 > Thinking about changing name to<br>
-> **S I O: Systematic your Input and Output**<br>
+> **<u>S I O: Systematic your Input and Output</u>**<br>
 > with website https://siobrains.com）
 
 Systematize your Input and Output
