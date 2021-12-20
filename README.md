@@ -12,7 +12,7 @@
 
 mogonote: https://mogonote.com/
 
-> Thinking about change name to<br>
+> Thinking about changing name to<br>
 > **S I O: Systematic your Input and Output**<br>
 > with website https://siobrains.com）
 
