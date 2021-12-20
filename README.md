@@ -20,7 +20,7 @@ Systematize your Input and Output
 
 >   Draw / Markdown / Text
 
->   Offline Mode / Online Mode
+>   Offline / Github / ... storage
 
 >   Multi Level Directory
 
