@@ -12,7 +12,9 @@
 
 mogonote: https://mogonote.com/
 
-（Thinking about change name to <span style="font-weight: bold; text-decoration: underline;">S I O: Systematic your Input and Output</span>, with website https://siobrains.com）
+> Thinking about change name to
+> **S I O: Systematic your Input and Output**
+> with website https://siobrains.com）
 
 Systematize your Input and Output
 
