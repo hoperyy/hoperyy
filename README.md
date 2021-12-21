@@ -10,7 +10,7 @@
 
 ## Products
 
-mogonote: https://mogonote.com/
+mogonote: https://mogonote.com/home
 
 > Thinking about changing name to<br>
 > **<u>S I O: Systematize your Input and Output</u>**<br>
