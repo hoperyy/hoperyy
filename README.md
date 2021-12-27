@@ -13,7 +13,7 @@
 mogonote: https://mogonote.com/home
 
 > Thinking about changing name to<br>
-> **notely**: *note* friend*ly*nput<br>
+> **notely**: *note* friend*ly*<br>
 > with website https://notely.cc
 
 Systematize your Input and Output
