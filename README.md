@@ -13,8 +13,8 @@
 mogonote: https://mogonote.com/home
 
 > Thinking about changing name to<br>
-> **S I O**: *S*ystematize your *I*nput and *O*utput<br>
-> with website https://siobrains.com
+> **notely**: *note* friend*ly*nput<br>
+> with website https://notely.cc
 
 Systematize your Input and Output
 
