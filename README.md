@@ -14,7 +14,7 @@ mogonote: https://mogonote.com/home
 
 > Thinking about changing name to<br>
 > **notely**: *note* friend*ly*<br>
-> with website https://notely.cc
+> with website https://notelyapp.com
 
 Systematize your Input and Output
 
