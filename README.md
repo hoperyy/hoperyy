@@ -16,7 +16,7 @@ mogonote: https://mogonote.com/home
 > **notely**: *note* friend*ly*<br>
 > with website https://notelyapp.com
 
-Systematize your Input and Output
+Features as below:
 
 >   Draw / Markdown / Text
 
