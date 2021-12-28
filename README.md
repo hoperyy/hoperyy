@@ -1,6 +1,6 @@
 ### About Me
 
-- 👨  I'm a Front-end Developer.
+- 👨  I'm a Front-End Developer.
 - 🏢  I'm currently working at **Weidian** in **Hangzhou**.
 - ⚙️  I use daily: **Vue**, **Webpack**, **Node**.
 - ⚡  Languages: **JavaScript** **TypeScript**.
