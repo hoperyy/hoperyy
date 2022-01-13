@@ -42,7 +42,7 @@ Features as below:
 
     > A sometimes popular package
 
-    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 9000+
+    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 9000+ (the top download count)
 
 +   [fix-colors-out-of-memory](https://www.npmjs.com/package/fix-colors-out-of-memory)
 
