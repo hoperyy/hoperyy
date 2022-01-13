@@ -28,7 +28,7 @@ Features as below:
 
 +   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
 
-    > 《技术管理者的自我修养》，最好的管理，就是最大限度的激发每个人的能力和善意
+    > 《技术管理者的自我修养》，好的管理，可以最大限度的激发每个人的能力和善意
 
 +   [plugin-anything](https://github.com/hoperyy/blog/issues/150)(2020)
 
