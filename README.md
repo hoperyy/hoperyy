@@ -28,15 +28,11 @@ Features as below:
 
 +   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
 
-    > 最好的管理，就是最大限度的激发每个人的能力和善意
+    > 《技术管理者的自我修养》，最好的管理，就是最大限度的激发每个人的能力和善意
 
 +   [plugin-anything](https://github.com/hoperyy/blog/issues/150)(2020)
 
     > Make pluginable applications.
-
-+   [get-dependency-tree](https://github.com/hoperyy/get-dependency-tree)(2019/07/03)
-
-    > Analyze file dependencies with extention `js / vue / scss / sass / less / css`
 
 +   [auto-compute-first-screen-time](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
@@ -44,12 +40,14 @@ Features as below:
 
 +   [sync-directory](https://github.com/hoperyy/sync-directory)(2017)
 
-    > A popular package
+    > A sometimes popular package
 
     > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 9000+
 
-+   [bio-cli](https://github.com/weidian-inc/bio-cli)(2018)
++   [fix-colors-out-of-memory](https://www.npmjs.com/package/fix-colors-out-of-memory)
 
-    > A cli tool for front-end developer
+    > You surely know what happed at [colors](https://github.com/Marak/colors.js/issues/285)
+    
+    > Fix it!
 
-    > Pluginable
+    > [npm](https://www.npmjs.com/package/fix-colors-out-of-memory) was just publish for it!
