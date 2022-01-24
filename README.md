@@ -14,7 +14,7 @@ mogonote: https://mogonote.com/home
 
 > Thinking about changing name to<br>
 > **notely**: *note* friend*ly*<br>
-> with website https://notelyweb.com
+> with website https://notelyer.com
 
 Features as below:
 
