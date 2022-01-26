@@ -10,11 +10,9 @@
 
 ## Products
 
-mogonote: https://mogonote.com/home
+Notely: https://mogonote.com/home (to be replaced with https://notelyer.com)
 
-> Thinking about changing name to<br>
 > **notely**: *note* friend*ly*<br>
-> with website https://notelyer.com
 
 Features as below:
 
