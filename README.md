@@ -12,7 +12,7 @@
 
 Notely: https://mogonote.com/home (to be replaced with https://notelyer.com)
 
-> **notely**: *note* friend*ly*<br>
+> **Notely**: *note* friend*ly*<br>
 
 Features as below:
 
