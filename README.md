@@ -26,13 +26,9 @@ Features as below:
 
 ## Projects
 
-+   [fix-colors-out-of-memory](https://www.npmjs.com/package/fix-colors-out-of-memory)(2022)
++   [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
 
-    > You surely know what happed at [colors](https://github.com/Marak/colors.js/issues/285)
-    
-    > Fix it!
-
-    > [npm](https://www.npmjs.com/package/fix-colors-out-of-memory) was just publish for it!
+    《深入理解 Babel》作者，图书编写中
 
 +   [sync-directory](https://github.com/hoperyy/sync-directory)(2017)
 
@@ -51,3 +47,11 @@ Features as below:
 +   [auto-compute-first-screen-time](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
     > Get first screen loading time automatically
+
++   [fix-colors-out-of-memory](https://www.npmjs.com/package/fix-colors-out-of-memory)(2022)
+
+    > You surely know what happed at [colors](https://github.com/Marak/colors.js/issues/285)
+    
+    > Fix it!
+
+    > [npm](https://www.npmjs.com/package/fix-colors-out-of-memory) was just publish for it!
