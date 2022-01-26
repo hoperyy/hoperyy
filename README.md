@@ -18,11 +18,13 @@ mogonote: https://mogonote.com/home
 
 Features as below:
 
->   Draw / Markdown / Text
+>   Easy Using: Without Login
 
->   Offline / Github / ... storage
+>   Type: Draw / Markdown / Text
 
->   Multi Level Directory
+>   Storage: Offline / Github / ... 
+
+>   Unlimited: Multi Level Directory
 
 ## Projects
 
