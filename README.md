@@ -50,7 +50,7 @@ Features as below:
 
 +   [fix-colors-out-of-memory](https://www.npmjs.com/package/fix-colors-out-of-memory)(2022)
 
-    > You surely know what happed at [colors](https://github.com/Marak/colors.js/issues/285)
+    > You surely know what happed with [colors](https://github.com/Marak/colors.js/issues/285)
     
     > Fix it!
 
