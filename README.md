@@ -1,7 +1,7 @@
 ### About Me
 
 - 👨  I'm a Front-End Developer.
-- ⚡   I'm now focused on **Tech Product** / ** Teach Lead ** / ** Deep-In-Series **
+- ⚡   I'm now focused on **Tech Product** / **Teach Lead** / **Deep-In-Series**
 
 ### Github Stats
 
