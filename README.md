@@ -2,7 +2,7 @@
 
 - 👨  I'm a Front-End Developer.
 - 🏢  I'm currently working at **Weidian** in **Hangzhou**.
-- ⚡  I use daily: **Vue** / **Webpack** / **Node** / **TypeScript**.
+- ⚡   I'm now focusing on **Tech Product** / ** Teach Lead ** / ** Deep-In-Series **
 
 ### Github Stats
 
