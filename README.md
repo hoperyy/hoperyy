@@ -13,7 +13,7 @@ Notely: https://mogonote.com/home (to be replaced with https://notelyer.com)
 
 > **Notely**: *Note* Friend*ly*<br>
 
-Features as below:
+Features:
 
 >   Easy Using: Without Login
 
