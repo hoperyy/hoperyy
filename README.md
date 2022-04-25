@@ -9,7 +9,7 @@
 
 ## Products
 
-Notely: https://notelyio.com
+Notely: https://notelyio.com/home
 
 > **Notely**: *Note* Friend*ly*<br>
 
