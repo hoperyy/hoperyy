@@ -7,11 +7,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=hoperyy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
-## Products
+## Notely: https://notelyio.com/home
 
-Notely: https://notelyio.com/home
-
-> **Notely**: *Note* Friend*ly*<br>
+**Notely**: *Note* Friend*ly*<br>
 
 Features:
 
