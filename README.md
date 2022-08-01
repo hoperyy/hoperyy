@@ -13,7 +13,7 @@
 
 Features:
 
->   Easy Using: Without Login
+>   Easy Use: Without Login
 
 >   Type: Draw / Markdown / Text
 
