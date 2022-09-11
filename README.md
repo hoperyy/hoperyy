@@ -11,6 +11,8 @@
 
 **Notely**: *Note* Friend*ly*<br>
 
+Registry: [Notely](https://github.com/hoperyy/Notely)
+
 Features:
 
 >   Easy Use: Without Login
