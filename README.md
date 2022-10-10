@@ -1,13 +1,16 @@
-### About Me
+## About Me
 
 - 👨  I'm a Front-End Developer.
 - ⚡   I'm now focused on **Tech Product** / **Teach Lead** / **Deep-In-Series**
 
-### Github Stats
+## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=hoperyy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
-## Notely: https://notelyio.com/
+## My Products
+
+
+### Notely: https://notelyio.com/
 
 **Notely**: *Note* Friend*ly*<br>
 
@@ -23,17 +26,17 @@ Features:
 
 >   Unlimited: Multi Level Directory
 
+### [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
+
+《深入理解 Babel》作者，图书编写中，[部分草稿](https://hoperyy.github.io/deep-in-babel)
+
 ## Projects
-
-+   [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
-
-    《深入理解 Babel》作者，图书编写中，[部分草稿](https://hoperyy.github.io/deep-in-babel)
 
 +   [sync-directory](https://github.com/hoperyy/sync-directory)(2017)
 
     > A sometimes popular package
 
-    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 9000+ (the top download count)
+    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 10k+ (the top download count)
 
 +   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
 
