@@ -10,9 +10,9 @@
 ## My Products
 
 
-### Notely: https://notelyio.com/
+### Notely: Note Friendly
 
-**Notely**: *Note* Friend*ly*<br>
+https://notelyio.com/
 
 Star: [Notely](https://github.com/hoperyy/Notely)
 
