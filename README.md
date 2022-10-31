@@ -44,7 +44,7 @@ Features:
 
 +   [plugin-anything](https://github.com/hoperyy/blog/issues/150)(2020)
 
-    > Make pluginable applications.
+    > Make pluginable applications
 
 +   [auto-compute-first-screen-time](https://github.com/hoperyy/auto-compute-first-screen-time)(2018)
 
@@ -56,4 +56,4 @@ Features:
     
     > Fix it!
 
-    > [npm](https://www.npmjs.com/package/fix-colors-out-of-memory) was just publish for it!
+    > [npm](https://www.npmjs.com/package/fix-colors-out-of-memory) was just published for it!
