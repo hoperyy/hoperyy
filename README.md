@@ -28,7 +28,7 @@ Features:
 
 ### [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
 
-《深入理解 Babel》作者，图书编写中，[部分草稿](https://hoperyy.github.io/deep-in-babel)
+Author of 《deep-in-babel》[crafts](https://hoperyy.github.io/deep-in-babel)
 
 ## Projects
 
