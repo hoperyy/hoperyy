@@ -12,7 +12,7 @@
 
 ### Notely: Note Friendly
 
-https://notelyio.com/
+https://notelyio.com/home
 
 Star: [Notely](https://github.com/hoperyy/Notely)
 
