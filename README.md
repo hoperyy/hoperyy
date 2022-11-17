@@ -33,7 +33,7 @@ Author of 《deep-in-babel》[crafts](https://hoperyy.github.io/deep-in-babel)
 
 ## Visit Status (new)
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hoperyy/count.svg" />
 </p>
