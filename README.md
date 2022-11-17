@@ -31,7 +31,7 @@ Features:
 
 Author of 《deep-in-babel》[crafts](https://hoperyy.github.io/deep-in-babel)
 
-## Visit Status (new)
+## Visit Status (Since 2022.11.17)
 
 <p align="left"> 
   Visitor count<br>
