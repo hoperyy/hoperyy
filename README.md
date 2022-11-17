@@ -7,6 +7,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=hoperyy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
+
 ## My Products
 
 
@@ -29,6 +30,17 @@ Features:
 ### [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
 
 Author of 《deep-in-babel》[crafts](https://hoperyy.github.io/deep-in-babel)
+
+## Visit Status (new)
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hoperyy/count.svg" />
+</p>
 
 ## Projects
 
