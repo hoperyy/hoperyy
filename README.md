@@ -29,7 +29,7 @@ Features:
 
 ### [deep-in-babel](https://github.com/hoperyy/deep-in-babel)(2021 ~ now)
 
-Author of 《deep-in-babel》[crafts](https://hoperyy.github.io/deep-in-babel)
+Author of 《deep-in-babel》[drafts](https://hoperyy.github.io/deep-in-babel)
 
 ## Projects
 
