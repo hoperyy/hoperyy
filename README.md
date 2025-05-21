@@ -33,11 +33,11 @@ Author of 《deep-in-babel》[drafts](https://hoperyy.github.io/deep-in-babel)
 
 ## Projects
 
-+   [sync-directory](https://github.com/hoperyy/sync-directory)(2017)
++   [sync-directory](https://github.com/hoperyy/sync-directory)(2021)
 
     > A sometimes popular package
 
-    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 12k+ (the top download count)
+    > [npm](https://www.npmjs.com/package/sync-directory) weekly download count 17k+ (the top download count)
 
 +   [what-does-tech-leader-do](https://github.com/hoperyy/what-does-tech-leader-do)(2021-12)
 
