@@ -1,6 +1,6 @@
 ## About Me
 
-- 👨  I'm a Frontend Engineer.
+- 👨  I'm a Software Engineer (Used to be a Frontend Engineer).
 - ⚡   I'm now focused on **Tech Products** / **Teach Lead** / **Deep-In-Series**
 
 ## Github Stats
